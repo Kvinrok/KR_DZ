@@ -1,0 +1,15 @@
+C:\Users\Александр\Documents\C#_DZ\KR_DZ\bin\Debug\net7.0\KR_DZ.exe
+C:\Users\Александр\Documents\C#_DZ\KR_DZ\bin\Debug\net7.0\KR_DZ.deps.json
+C:\Users\Александр\Documents\C#_DZ\KR_DZ\bin\Debug\net7.0\KR_DZ.runtimeconfig.json
+C:\Users\Александр\Documents\C#_DZ\KR_DZ\bin\Debug\net7.0\KR_DZ.dll
+C:\Users\Александр\Documents\C#_DZ\KR_DZ\bin\Debug\net7.0\KR_DZ.pdb
+C:\Users\Александр\Documents\C#_DZ\KR_DZ\obj\Debug\net7.0\KR_DZ.csproj.AssemblyReference.cache
+C:\Users\Александр\Documents\C#_DZ\KR_DZ\obj\Debug\net7.0\KR_DZ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Александр\Documents\C#_DZ\KR_DZ\obj\Debug\net7.0\KR_DZ.AssemblyInfoInputs.cache
+C:\Users\Александр\Documents\C#_DZ\KR_DZ\obj\Debug\net7.0\KR_DZ.AssemblyInfo.cs
+C:\Users\Александр\Documents\C#_DZ\KR_DZ\obj\Debug\net7.0\KR_DZ.csproj.CoreCompileInputs.cache
+C:\Users\Александр\Documents\C#_DZ\KR_DZ\obj\Debug\net7.0\KR_DZ.dll
+C:\Users\Александр\Documents\C#_DZ\KR_DZ\obj\Debug\net7.0\refint\KR_DZ.dll
+C:\Users\Александр\Documents\C#_DZ\KR_DZ\obj\Debug\net7.0\KR_DZ.pdb
+C:\Users\Александр\Documents\C#_DZ\KR_DZ\obj\Debug\net7.0\KR_DZ.genruntimeconfig.cache
+C:\Users\Александр\Documents\C#_DZ\KR_DZ\obj\Debug\net7.0\ref\KR_DZ.dll
